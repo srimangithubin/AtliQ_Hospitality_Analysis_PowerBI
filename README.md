@@ -22,7 +22,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 
-("https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png")
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/6d905baf-137a-4a80-9bbc-25eafc89e68d)
 
 ## Data Model
 
