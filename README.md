@@ -21,29 +21,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-<p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
-</p>
 
+("https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png")
 
 ## Data Model
 
-<p align="center">
-    <img src='![Screenshot (290)](https://github.com/user-attachments/assets/68dbaf35-da78-4ff0-9fbe-690fe0ea12f4)' height="400">
-</p>
-
+![Screenshot (290)](https://github.com/user-attachments/assets/68dbaf35-da78-4ff0-9fbe-690fe0ea12f4)
 
 ## Overall Analysis View
 
-<p align="center">
-    <img src='![Screenshot (288)](https://github.com/user-attachments/assets/9dc12411-f7a2-4779-b758-1b4fe5cadd4c)' width="600">
-</p>
+![Screenshot (288)](https://github.com/user-attachments/assets/9dc12411-f7a2-4779-b758-1b4fe5cadd4c)
 
 ## Monthly Analysis View
 
-<p align="center">
-    <img src='![Screenshot (289)](https://github.com/user-attachments/assets/1bc81ef6-89f9-4371-bed0-46c6d83b7ee3)' width="600">
-</p>
+![Screenshot (289)](https://github.com/user-attachments/assets/1bc81ef6-89f9-4371-bed0-46c6d83b7ee3)
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
