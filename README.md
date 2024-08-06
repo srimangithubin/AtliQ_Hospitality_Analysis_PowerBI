@@ -57,3 +57,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Elite type rooms has the most booking and as well higher cancellation rate
 
 
+**Data_analysis with Python_pandas**
+
+https://github.com/srimangithubin/AtliQ_Hospitality_Analysis_Power_BI_Python_pandas/blob/main/Hotel_analytics_py_thon.ipynb
+
